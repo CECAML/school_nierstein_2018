@@ -10,3 +10,4 @@ Website: https://www.cecam.org/workshop-0-1661.html
 File descriptions:
 
 - `learn_lj.ipynb`: tutorial on kernel methods
+- `1-Nearest Neighbor Classifier under Euclidean Distance.ipynb`: 1NN L2 classifier
